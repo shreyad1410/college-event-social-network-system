@@ -64,9 +64,11 @@ Friendships form a graph where each user is a node and each friendship is an edg
 ## How to Run
 
 1. Compile the program
+   
 javac osl2.java
 
 2. Run the program
+   
 java osl2
 
 Make sure all text files are present in the same folder.
@@ -90,4 +92,3 @@ Make sure all text files are present in the same folder.
 - Improved recommendation algorithms
 - GUI or web interface
 
-## Project Structure
