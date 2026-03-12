@@ -1,0 +1,6 @@
+100|1|AI Workshop|Monday|10:00-13:00|PICT|Introduction to AI and Machine Learning|Seminar Hall|Computer Engineering|2026-04-15|AI,ML,Python
+101|1|Web Development Bootcamp|Saturday|09:00-16:00|COEP|Full stack web development workshop|Main Auditorium|All|2026-05-10|Web,HTML,CSS,JavaScript
+102|1|Robotics Challenge|Sunday|11:00-17:00|VIT|Build and compete with robots|Robotics Lab|Mechanical Engineering|2026-06-20|Robotics,Arduino,Engineering
+103|1|Photography Contest|Friday|14:00-18:00|PVG|Campus photography competition|Campus Ground|All|2026-07-12|Photography,Design,Creative
+104|1|Startup Pitch Event|Wednesday|15:00-19:00|CCOEW|Pitch innovative startup ideas to judges|Innovation Center|All|2026-08-05|Startup,Business,Entrepreneurship
+105|1|App Development Hackathon|Saturday|10:00-20:00|PICT|Develop mobile apps in teams|Computer Lab|Computer Engineering|2026-09-10|Android,AppDev,Programming
